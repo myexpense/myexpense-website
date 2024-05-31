@@ -1,0 +1,99 @@
+[
+  {
+    "section": {
+      "en": "About",
+      "ru": "О Нас",
+      "de": "About",
+      "es": "About",
+      "fr": "About",
+      "tr": "About",
+      "zh": "About",
+      "ko": "About"
+    },
+    "items": [
+      {
+        "en": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/en/about/why-choose-myexpense.md"
+        },
+        "ru": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/ru/about/why-choose-myexpense.md"
+        },
+        "de": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/de/about/why-choose-myexpense.md"
+        },
+        "es": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/es/about/why-choose-myexpense.md"
+        },
+        "fr": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/fr/about/why-choose-myexpense.md"
+        },
+        "tr": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/tr/about/why-choose-myexpense.md"
+        },
+        "zh": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/zh/about/why-choose-myexpense.md"
+        },
+        "ko": {
+          "title": "Why choose the MyExpense?",
+          "markdown": "faq/ko/about/why-choose-myexpense.md"
+        }
+      }
+    ]
+  },
+  {
+    "section": {
+      "en": "Privacy",
+      "ru": "Privacy",
+      "de": "Privacy",
+      "es": "Privacy",
+      "fr": "Privacy",
+      "tr": "Privacy",
+      "zh": "Privacy",
+      "ko": "Privacy",
+      "fa": "Privacy"
+    },
+    "items": [
+      {
+        "en": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/en/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        },
+        "ru": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/ru/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        },
+        "de": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/de/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        },
+        "es": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/es/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        },
+        "fr": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/fr/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        },
+        "tr": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/tr/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        },
+        "zh": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/zh/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        },
+        "ko": {
+          "title": "Does MyExpense collect user data?",
+          "markdown": "faq/ko/privacy/does-myexpense-collect-or-share-any-user-data.md"
+        }
+      }
+    ]
+  }
+]

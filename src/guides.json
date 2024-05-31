@@ -1,0 +1,78 @@
+[
+  {
+    "id": "basics",
+    "category": {
+      "en": "Basics",
+      "ru": "Основы",
+      "fr": "L'essentiel",
+      "de": "Grundlagen",
+      "fa": "Basics"
+    },
+    "guides": [
+      {
+        "en": {
+          "title": "Cryptocurrency Explained",
+          "image": "guides/fundamentals/images/01-main-l.png",
+          "file": "guides/fundamentals/en/1-getting-started.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Криптовалюта",
+          "image": "guides/fundamentals/images/01-main-l.png",
+          "file": "guides/fundamentals/ru/1-getting-started.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Crypto-monnaie",
+          "image": "guides/fundamentals/images/01-main-l.png",
+          "file": "guides/fundamentals/fr/1-getting-started.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Kryptowährung",
+          "image": "guides/fundamentals/images/01-main-l.png",
+          "file": "guides/fundamentals/de/1-getting-started.md",
+          "updated_at": "2020-06-01"
+        },
+        "fa": {
+          "title": "رمزارز یا کریپتوکارنسی",
+          "image": "guides/fundamentals/images/01-main-l.png",
+          "file": "guides/fundamentals/fa/1-getting-started.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Crypto Wallets",
+          "image": "guides/fundamentals/images/02-main-l.png",
+          "file": "guides/fundamentals/en/2-myexpense-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Доступно о кошельках",
+          "image": "guides/fundamentals/images/02-main-l.png",
+          "file": "guides/fundamentals/ru/2-myexpense-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Les portefeuilles",
+          "image": "guides/fundamentals/images/02-main-l.png",
+          "file": "guides/fundamentals/fr/2-myexpense-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Wallets erklärt",
+          "image": "guides/fundamentals/images/02-main-l.png",
+          "file": "guides/fundamentals/de/2-myexpense-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fa": {
+          "title": "توضیح کیف پول",
+          "image": "guides/fundamentals/images/02-main-l.png",
+          "file": "guides/fundamentals/fa/2-myexpense-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      }
+    ]
+  }
+]
